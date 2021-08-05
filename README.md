@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
-<h3 align="center">С# developer from Belorus</h3>
+<h3 align="center">С# developer from Belarus</h3>
 
 - 🌱 I’m currently learning **React.js and ASP.NET**
 
