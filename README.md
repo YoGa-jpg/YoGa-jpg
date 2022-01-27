@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
 <h3 align="center">С# developer from Belarus</h3>
 
-- 🌱 I’m currently learning **React.js and ASP.NET**
+- 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **antondavidovich45@gmail.com**
+- 📫 How to reach me: **antondavidovich45@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
